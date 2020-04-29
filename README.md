@@ -1,1 +1,2 @@
 # xct
+git status
